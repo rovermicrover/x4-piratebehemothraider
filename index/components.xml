@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="/index">
+		<entry name="ship_arg_l_destroyer_02" value="extensions\piratebehemothraider\assets\units\size_l\ship_arg_l_destroyer_02"/>
+	</add>
+</diff>

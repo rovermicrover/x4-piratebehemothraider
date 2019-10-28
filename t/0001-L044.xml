@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="44">
+
+<page id="20101" title="Ships" descr="Names and descriptions of ships" voice="yes">
+ <t id="11004">(Behemoth Raider){20101,11001} {20111,1001}</t>
+ <t id="11014">{20101,11011}</t>
+</page>
+
+</language>
