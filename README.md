@@ -4,7 +4,9 @@ Adds a Pirate Specific Behemoth, the Behemoth Raider. It is used by the pirate f
 
 # What Is Modified?
 
-* The Ware File.
+* The Ware library File.
+
+* The ships and shipgroups library files.
 
 * The text file has additions
 
