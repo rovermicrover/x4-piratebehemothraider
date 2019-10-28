@@ -21,3 +21,5 @@ Adds a Pirate Specific Behemoth, the Behemoth Raider. It is used by the pirate f
 # History
 
 1.00 Release Version
+
+1.01 Make sure to have the ships and shipsgroup file actually point at the new Behemoth Raider for SCA and HAT. Also change file names to ensure less of a chance of conflict with future mods and expansions. Note any existing Behemoth Raider you may have created will be wiped.
