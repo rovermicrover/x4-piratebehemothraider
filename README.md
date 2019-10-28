@@ -12,7 +12,7 @@ Adds a Pirate Specific Behemoth, the Behemoth Raider. It is used by the pirate f
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419663)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1900763039)
 
