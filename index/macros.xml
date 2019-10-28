@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
 	<add sel="/index">
-		<entry name="ship_arg_l_destroyer_01_c_macro" value="extensions\piratebehemothraider\assets\units\size_l\macros\ship_arg_l_destroyer_01_c_macro"/>
-		<entry name="storage_arg_l_destroyer_01_c_macro" value="extensions\piratebehemothraider\assets\units\size_l\macros\storage_arg_l_destroyer_01_c_macro" />
+		<entry name="ship_arg_l_destroyer_01_pbr_macro" value="extensions\piratebehemothraider\assets\units\size_l\macros\ship_arg_l_destroyer_01_pbr_macro"/>
+		<entry name="storage_arg_l_destroyer_01_pbr_macro" value="extensions\piratebehemothraider\assets\units\size_l\macros\storage_arg_l_destroyer_01_pbr_macro" />
 	</add>
 </diff>

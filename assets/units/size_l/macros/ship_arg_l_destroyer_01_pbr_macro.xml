@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: nick (192.168.3.120) at 10.05.2019_16-52-31-->
 <macros>
-  <macro name="ship_arg_l_destroyer_01_c_macro" class="ship_l">
-    <component ref="ship_arg_l_destroyer_02" />
+  <macro name="ship_arg_l_destroyer_01_pbr_macro" class="ship_l">
+    <component ref="ship_arg_l_destroyer_pbr" />
     <properties>
       <identification name="{20101,11009}" basename="{20101,11001}" description="{20101,11019}" variation="{20111,1001}" shortvariation="{20111,1003}" icon="ship_l_fight_01" />
       <software>
@@ -48,7 +48,7 @@
         <macro ref="shipstorage_gen_xs_01_macro" connection="object" />
       </connection>
       <connection ref="con_storage01">
-        <macro ref="storage_arg_l_destroyer_01_c_macro" connection="ShipConnection" />
+        <macro ref="storage_arg_l_destroyer_01_pbr_macro" connection="ShipConnection" />
       </connection>
     </connections>
   </macro>

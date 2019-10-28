@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content name="Pirate Behemoth Raider" description="Adds a Pirate Specific Behemoth, the Behemoth Raider" author="YourHandle" version="100" date="20xx-xx-xx">
-  <text language="44" name="Pirate Behemoth Raider" description="Adds a Pirate Specific Behemoth, the Behemoth Raider" author="YourHandle"/>
+<content name="Pirate Behemoth Raider" description="Adds a Pirate Specific Behemoth, the Behemoth Raider" author="RoverTX" version="100" date="2019-10-27" id="ws_1900763039" lastupdate="1572237216">
+  <text language="44" name="Pirate Behemoth Raider" description="Adds a Pirate Specific Behemoth, the Behemoth Raider" author="RoverTX"/>
 </content>

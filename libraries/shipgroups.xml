@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="//groups">
+		<group name="sca_plunderer_pbr">
+			<select macro="ship_arg_l_destroyer_01_pbr_macro"/>
+		</group>
+	</add>
+</diff>

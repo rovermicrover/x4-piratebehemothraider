@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<replace sel="//ships/ship[@id='hat_plunderer']/@group">sca_plunderer_pbr</replace>
+	<replace sel="//ships/ship[@id='sca_plunderer']/@group">sca_plunderer_pbr</replace>
+</diff>

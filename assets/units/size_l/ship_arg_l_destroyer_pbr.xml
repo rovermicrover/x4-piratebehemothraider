@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <components>
-	<component name="ship_arg_l_destroyer_02" class="ship_l">
+	<component name="ship_arg_l_destroyer_pbr" class="ship_l">
 		<source geometry="assets\units\size_l\ship_arg_l_destroyer_01_data"/>
 		<layers>
 			<layer>
