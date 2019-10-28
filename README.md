@@ -14,7 +14,7 @@ Adds a Pirate Specific Behemoth, the Behemoth Raider. It is used by the pirate f
 
 [Egosoft Forum]()
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1900763039)
 
 [Github](https://github.com/rovermicrover/x4-piratebehemothraider)
 
